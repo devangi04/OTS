@@ -1,10 +1,10 @@
 # OTS
-# The Project Aims to provide food services to the Customers. 
-# As we know that, the food cooked at home is hygienic and best for health. 
-# customer get cost effective meals at the click of a fingure.
-# Various options are available for the user.
-# Online Payment option is avaliable.
-# The food can be delivered to their given address.
+ The Project Aims to provide food services to the Customers. 
+ As we know that, the food cooked at home is hygienic and best for health. 
+ customer get cost effective meals at the click of a fingure.
+ Various options are available for the user.
+ Online Payment option is avaliable.
+ The food can be delivered to their given address.
 # OUTPUT
 # HomePage
 ![Screenshot (543)](https://github.com/devangi04/OTS/assets/140781045/ad016ed5-6498-4916-8839-0ed8fdfecb83)
@@ -32,7 +32,7 @@
 ![image](https://github.com/devangi04/OTS/assets/140781045/04a63ba8-9ce5-4ce8-a554-37d2558e9a06)
 # Customer_profile
 ![image](https://github.com/devangi04/OTS/assets/140781045/9083cd0a-a349-4ad6-b648-38dfa55f43f9)
-# shoopingcart
+# shoppingcart
 ![image](https://github.com/devangi04/OTS/assets/140781045/f9594082-9f07-49de-8af1-cc718719c388)
 # Checkout
 ![image](https://github.com/devangi04/OTS/assets/140781045/76bbcd99-73f9-48e8-9885-1e8f476dc69f)
